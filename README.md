@@ -1,1 +1,1 @@
-# MVP-marketplace
+# Print-on-Demand Store MVP
